@@ -1,0 +1,19 @@
+[{
+	"name": "Lemon",
+	"artist": "米津玄師",
+	"url": "/medias/music/lemon.mp3",
+	"cover": "/medias/music/lemon.jpg"
+},
+{
+        "name": "Unravel",
+        "artist": "凛として時雨",
+        "url": "/medias/music/unravel.mp3",
+        "cover": "/medias/music/unravel.jfif"
+},
+{
+        "name": "ヤキモチ",
+        "artist": "高橋優",
+        "url": "/medias/music/ヤキモチ.mp3",
+        "cover": "/medias/music/ヤキモチ.jfif"
+}
+]

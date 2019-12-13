@@ -4,7 +4,7 @@
 
 # Site
 title: Chi Zhang的博客
-subtitle:    start from 2019/12/13
+subtitle: Chi Zhang的博客
 description: 一座孤岛
 author: Chi Zhang
 email: chi1993.zhang@gmail.com
@@ -93,7 +93,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Buttrfly
+theme: hexo-theme-matery
 
 
 # Deployment
