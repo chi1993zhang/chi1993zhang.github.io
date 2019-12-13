@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 岛
-subtitle: 我从海上来，浪声满袖。
+title: Chi Zhang的博客
+subtitle:    start from 2019/12/13
 description: 一座孤岛
-author: Eric Shen
-email: 448766534@qq.com
+author: Chi Zhang
+email: chi1993.zhang@gmail.com
 keywords: "生活,旅行,思考,代码,博客"
-language: zh-Hans
+language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
@@ -93,7 +93,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: ayer
+theme: Buttrfly
 
 
 # Deployment
@@ -110,7 +110,12 @@ feed:
     type: atom
     path: atom.xml
     limit: 100
-    
+ 
+admin:
+  username: chi1993zhang
+  password_hash: $2a$10$zWSxM3e7TCNQ2Kxy/mgeLeOk0Tn0lbZYI2nDIPVLztb/X.Ka3ho96
+  secret: DEVQPJv1
+
 # 搜索，安装hexo-generator-search
 search:
   path: search.xml
