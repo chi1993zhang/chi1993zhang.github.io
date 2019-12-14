@@ -5,16 +5,16 @@
 # Site
 title: Chi Zhang的博客
 subtitle: Chi Zhang的博客
-description: 一座孤岛
+description: 
 author: Chi Zhang
 email: chi1993.zhang@gmail.com
-keywords: "生活,旅行,思考,代码,博客"
+keywords: ""
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://shen-yu.gitee.io
+url: https://18.188.99.190
 root: /
 permalink: :year/:id/
 permalink_defaults:
