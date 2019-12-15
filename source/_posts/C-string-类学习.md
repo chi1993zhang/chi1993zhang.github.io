@@ -56,4 +56,4 @@ cout << "str1:" << str1 << ",str2:" << str2 << endl;
 ```
 ***
 ## 参考
-《C++ Primer 5th》
+《C++ Primer Plus》
