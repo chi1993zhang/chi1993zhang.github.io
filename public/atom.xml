@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Chi Zhang的博客</title>
+  <title>驰的博客</title>
   <icon>https://www.gravatar.com/avatar/0872a7bdb188193c3fbe883e7fa691f2</icon>
-  <subtitle>Chi Zhang的博客</subtitle>
+  <subtitle>一间小站</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://shen-yu.gitee.io/"/>
-  <updated>2019-12-14T01:19:25.191Z</updated>
-  <id>https://shen-yu.gitee.io/</id>
+  <link href="https://18.188.99.190/"/>
+  <updated>2019-12-14T08:31:40.001Z</updated>
+  <id>https://18.188.99.190/</id>
   
   <author>
     <name>Chi Zhang</name>
@@ -17,11 +17,67 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>C++ string 类学习</title>
+    <link href="https://18.188.99.190/2019/ck45cf1090005rwp1cy9106h8/"/>
+    <id>https://18.188.99.190/2019/ck45cf1090005rwp1cy9106h8/</id>
+    <published>2019-12-13T23:27:00.000Z</published>
+    <updated>2019-12-14T08:31:40.001Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="C-string-类"><a href="#C-string-类" class="headerlink" title="C++ string 类"></a>C++ string 类</h2><h4 id="头文件与名空间"><a href="#头文件与名空间" class="headerlink" title="头文件与名空间"></a>头文件与名空间</h4><p>头文件：</p><pre class="line-numbers language-C++"><code class="language-C++">#include <string><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>名空间：</p><pre class="line-numbers language-C++"><code class="language-C++">// 位于名空间 stdusing std::string<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><hr><h4 id="与字符数组的相同与不同"><a href="#与字符数组的相同与不同" class="headerlink" title="与字符数组的相同与不同"></a>与字符数组的相同与不同</h4><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;C-string-类&quot;&gt;&lt;a href=&quot;#C-string-类&quot; class=&quot;headerlink&quot; title=&quot;C++ string 类&quot;&gt;&lt;/a&gt;C++ string 类&lt;/h2&gt;&lt;h4 id=&quot;头文件与名空间&quot;&gt;&lt;a href=&quot;#头文件与名空间&quot; c
+      
+    
+    </summary>
+    
+    
+      <category term="数据结构" scheme="https://18.188.99.190/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    
+      <category term="C++" scheme="https://18.188.99.190/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redis 项目学习日志</title>
+    <link href="https://18.188.99.190/2019/ck45cf10o000brwp1fb477she/"/>
+    <id>https://18.188.99.190/2019/ck45cf10o000brwp1fb477she/</id>
+    <published>2019-12-13T23:01:00.000Z</published>
+    <updated>2019-12-14T07:16:01.528Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天开始学习Redis。<br>将会分为以下几个部分展开：</p><ol><li>基础知识 （2~3 d）</li><li>安装 （1 d）</li><li>语法学习 （2~3 d）</li><li>使用 （2~3 d）</li><li>源码学习 （14 d）</li></ol><p>共计 3~4 周，希望自己能如期完成计划，预计完成日期 2020.1.7</p><p>参考：</p><ul><li><a href="https://www.runoob.com/redis/redis-intro.html" target="_blank" rel="noopener">https://www.runoob.com/redis/redis-intro.html</a> （菜鸟教程）</li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天开始学习Redis。&lt;br&gt;将会分为以下几个部分展开：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;基础知识 （2~3 d）&lt;/li&gt;
+&lt;li&gt;安装 （1 d）&lt;/li&gt;
+&lt;li&gt;语法学习 （2~3 d）&lt;/li&gt;
+&lt;li&gt;使用 （2~3 d）&lt;/li&gt;
+&lt;li&gt;源码学习 （14 d）&lt;
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Redis" scheme="https://18.188.99.190/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="https://shen-yu.gitee.io/2019/ck450fnnt00032ep17msjd1od/"/>
-    <id>https://shen-yu.gitee.io/2019/ck450fnnt00032ep17msjd1od/</id>
-    <published>2019-12-14T01:19:25.191Z</published>
-    <updated>2019-12-14T01:19:25.191Z</updated>
+    <link href="https://18.188.99.190/2019/ck45cf10x000crwp1c7yyeywi/"/>
+    <id>https://18.188.99.190/2019/ck45cf10x000crwp1c7yyeywi/</id>
+    <published>2019-12-13T19:49:00.000Z</published>
+    <updated>2019-12-14T03:49:02.470Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
     
@@ -39,22 +95,77 @@
   </entry>
   
   <entry>
-    <title>测试</title>
-    <link href="https://shen-yu.gitee.io/2019/ck450fnnx00052ep1egc6f6ve/"/>
-    <id>https://shen-yu.gitee.io/2019/ck450fnnx00052ep1egc6f6ve/</id>
-    <published>2019-12-12T17:32:00.000Z</published>
-    <updated>2019-12-14T02:40:01.114Z</updated>
+    <title>MarkDown学习</title>
+    <link href="https://18.188.99.190/2019/ck45cf10k0008rwp1beqtal2s/"/>
+    <id>https://18.188.99.190/2019/ck45cf10k0008rwp1beqtal2s/</id>
+    <published>2019-12-13T15:41:00.000Z</published>
+    <updated>2019-12-14T08:29:29.194Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/images/pasted-0.png" alt="upload successful"></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    <content type="html"><![CDATA[<h1 id="MarkDown学习"><a href="#MarkDown学习" class="headerlink" title="MarkDown学习"></a>MarkDown学习</h1><h2 id="前言："><a href="#前言：" class="headerlink" title="前言："></a>前言：</h2><p>最近打算开始写博客，结果发现博客基本语法都不会。。。于是想先开一篇写MarkDown语法。</p><hr><h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h2><h6 id="用-–-表示标题"><a href="#用-–-表示标题" class="headerlink" title="用 == – 表示标题"></a>用 == – 表示标题</h6><pre><code>我展示的是一级标题=================我展示的是二级标题-----------------</code></pre><h6 id="用-表示标题"><a href="#用-表示标题" class="headerlink" title="用 # 表示标题"></a>用 # 表示标题</h6><pre><code># 一级标题## 二级标题### 三级标题#### 四级标题##### 五级标题###### 六级标题</code></pre><hr><h2 id="段落"><a href="#段落" class="headerlink" title="段落"></a>段落</h2><p>MarkDown中不可直接用回车表示段落，需要加双空格加回车</p><hr><h2 id="字体"><a href="#字体" class="headerlink" title="字体"></a>字体</h2><h6 id="粗体，斜体，粗斜体"><a href="#粗体，斜体，粗斜体" class="headerlink" title="粗体，斜体，粗斜体"></a>粗体，斜体，粗斜体</h6><pre><code>*斜体文本*_斜体文本_**粗体文本**__粗体文本__***粗斜体文本***___粗斜体文本___</code></pre><hr><h2 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h2><pre><code>**** * ******- - -----------</code></pre><hr><h2 id="删除线"><a href="#删除线" class="headerlink" title="删除线"></a>删除线</h2><pre><code>~~Test~~</code></pre><hr><h2 id="下划线"><a href="#下划线" class="headerlink" title="下划线"></a>下划线</h2><pre><code>&lt;u&gt;带下划线文本&lt;/u&gt;</code></pre><hr><h2 id="标注"><a href="#标注" class="headerlink" title="标注"></a>标注</h2><pre><code>创建脚注格式类似这样 [^RUNOOB]。[^RUNOOB]: 菜鸟教程 -- 学的不仅是技术，更是梦想！！！</code></pre><hr><h2 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h2><h6 id="无序列表"><a href="#无序列表" class="headerlink" title="无序列表"></a>无序列表</h6><pre><code>* 第一项* 第二项* 第三项+ 第一项+ 第二项+ 第三项- 第一项- 第二项- 第三项</code></pre><h6 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h6><pre><code>1. 第一项2. 第二项3. 第三项</code></pre><h6 id="嵌套列表"><a href="#嵌套列表" class="headerlink" title="嵌套列表"></a>嵌套列表</h6><p>列表嵌套只需在子列表中的选项添加四个空格即可：</p><pre><code>1. 第一项：    - 第一项嵌套的第一个元素    - 第一项嵌套的第二个元素2. 第二项：    - 第二项嵌套的第一个元素    - 第二项嵌套的第二个元素</code></pre><hr><h2 id="区块"><a href="#区块" class="headerlink" title="区块"></a>区块</h2><pre><code>&gt; 区块引用&gt; 菜鸟教程&gt; 学的不仅是技术更是梦想</code></pre><hr><h2 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h2><pre><code>` ` `代码段 ` ` `</code></pre><hr><h2 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h2><pre><code>这是一个链接 [菜鸟教程](https://www.runoob.com)</code></pre><hr><h2 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h2><pre><code>![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png "RUNOOB")&lt;img src="http://static.runoob.com/images/runoob-logo.png" width="50%"&gt; 调整高度</code></pre><hr><h2 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h2><h6 id="语法"><a href="#语法" class="headerlink" title="语法"></a>语法</h6><p>Markdown 制作表格使用 | 来分隔不同的单元格，使用 - 来分隔表头和其他行。</p><p>语法格式如下：</p><pre><code>|  表头   | 表头  ||  ----  | ----  || 单元格  | 单元格 || 单元格  | 单元格 |</code></pre><h6 id="对齐方式"><a href="#对齐方式" class="headerlink" title="对齐方式"></a>对齐方式</h6><p>我们可以设置表格的对齐方式：</p><p>-: 设置内容和标题栏居右对齐。<br>:- 设置内容和标题栏居左对齐。<br>:-: 设置内容和标题栏居中对齐。</p><pre><code>| 左对齐 | 右对齐 | 居中对齐 || :-----| ----: | :----: || 单元格 | 单元格 | 单元格 || 单元格 | 单元格 | 单元格 |</code></pre><hr><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><p><a href="https://www.runoob.com/markdown/md-tutorial.html" target="_blank" rel="noopener">菜鸟教程</a></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;/images/pasted-0.png&quot; alt=&quot;upload successful&quot;&gt;&lt;/p&gt;
-&lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEa
+        &lt;h1 id=&quot;MarkDown学习&quot;&gt;&lt;a href=&quot;#MarkDown学习&quot; class=&quot;headerlink&quot; title=&quot;MarkDown学习&quot;&gt;&lt;/a&gt;MarkDown学习&lt;/h1&gt;&lt;h2 id=&quot;前言：&quot;&gt;&lt;a href=&quot;#前言：&quot; class=&quot;header
+      
+    
+    </summary>
+    
+    
+      <category term="博客技术" scheme="https://18.188.99.190/categories/%E5%8D%9A%E5%AE%A2%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="MarkDown" scheme="https://18.188.99.190/tags/MarkDown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>版本记录</title>
+    <link href="https://18.188.99.190/2019/ck45cf1060003rwp1fqffhk0m/"/>
+    <id>https://18.188.99.190/2019/ck45cf1060003rwp1fqffhk0m/</id>
+    <published>2019-12-13T01:43:00.000Z</published>
+    <updated>2019-12-14T05:36:43.970Z</updated>
+    
+    <content type="html"><![CDATA[<p>v0.02 2019-12-14</p><ul><li>实现评论功能</li><li>实现关于页面</li><li>实现留言板页面</li></ul><p>v0.01 2019-12-13</p><ul><li>使用hexo-theme-matery主题</li><li>主页实现“听听音乐”功能</li><li>添加标签页</li><li>添加分类页</li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;v0.02 2019-12-14&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;实现评论功能&lt;/li&gt;
+&lt;li&gt;实现关于页面&lt;/li&gt;
+&lt;li&gt;实现留言板页面&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;v0.01 2019-12-13&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;使用hexo-theme-matery主题&lt;/
+      
+    
+    </summary>
+    
+    
+    
+      <category term="版本记录" scheme="https://18.188.99.190/tags/%E7%89%88%E6%9C%AC%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试</title>
+    <link href="https://18.188.99.190/2019/ck45cf10z000frwp1cmhiah1e/"/>
+    <id>https://18.188.99.190/2019/ck45cf10z000frwp1cmhiah1e/</id>
+    <published>2019-12-12T17:32:00.000Z</published>
+    <updated>2019-12-14T03:50:54.541Z</updated>
+    
+    <content type="html"><![CDATA[<pre class="line-numbers language-C++"><code class="language-C++">$ hexo new "My New Post"<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;pre class=&quot;line-numbers language-C++&quot;&gt;&lt;code class=&quot;language-C++&quot;&gt;$ hexo new &quot;My New Post&quot;&lt;span aria-hidden=&quot;true&quot; class=&quot;line-numbers-rows&quot;
       
     
     </summary>

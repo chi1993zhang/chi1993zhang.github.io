@@ -15,5 +15,17 @@
         "artist": "高橋優",
         "url": "/medias/music/ヤキモチ.mp3",
         "cover": "/medias/music/ヤキモチ.jfif"
+},
+{
+        "name": "HandClap",
+        "artist": "Fitz And The Tantrums",
+        "url": "/medias/music/HandClap.mp3",
+        "cover": "/medias/music/HandClap.jfif"
+},
+{
+        "name": "卡西莫多的礼物",
+        "artist": "华晨宇",
+        "url": "/medias/music/卡西莫多的礼物.mp3",
+        "cover": "/medias/music/卡西莫多的礼物.jpg"
 }
 ]
